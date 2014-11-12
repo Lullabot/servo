@@ -3,6 +3,7 @@ This is a fork of [Drupal Boilerplate](https://github.com/Lullabot/drupal-boiler
 
 ## Install Profile Instructions
 ```
+$ cd docroot
 $ drush make servo.make
 ```
 
