@@ -1,3 +1,21 @@
+# Servo
+This is a fork of [Drupal Boilerplate](https://github.com/Lullabot/drupal-boilerplate), but with the addition of an installation profile.
+
+## Install Profile Instructions
+```
+$ drush make servo.make
+```
+
+Then install Drupal, selecting the "Servo" profile. This will give you
+
+* Responsive toolbar
+* Responsive admin theme (named "yoursite_shiny" - please edit this for your own site)
+*  CKEditor with a HTML Purifier based filter and Linkit
+*  Basic "Page" content type
+*  A blank theme with automation tools already configured
+
+-
+
 #Drupal Boilerplate#
 -
 
