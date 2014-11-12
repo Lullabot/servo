@@ -16,6 +16,9 @@ projects[] = linkit
 
 ; Themes
 projects[] = shiny
+projects[windup][type] = theme
+projects[windup][download][type] = git
+projects[windup][download][url] = git://github.com/Lullabot/windup
 
 ; Libraries
 libraries[backbone][download][type] = "get"
