@@ -9,10 +9,10 @@ $ drush make servo.make
 Then install Drupal, selecting the "Servo" profile. This will give you
 
 * Responsive toolbar
-* Responsive admin theme (named "yoursite_shiny" - please edit this for your own site)
-*  CKEditor with a HTML Purifier based filter and Linkit
-*  Basic "Page" content type
-*  A blank theme with automation tools already configured
+* Shiny admin theme
+* CKEditor with a HTML Purifier based filter and Linkit
+* Basic "Page" content type
+* The windup starter theme with automation tools already configured
 
 -
 
