@@ -8,3 +8,4 @@ dependencies[] = navbar
 dependencies[] = ckeditor
 dependencies[] = linkit
 dependencies[] = menu
+dependencies[] = hide_submit
