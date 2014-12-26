@@ -292,4 +292,7 @@ function servo_install()
       "format" => 'filtered_html'
     ))
     ->execute();
+
+  // Configure hide_submit module.
+  variable_set('hide_submit_method', 'hide');
 }

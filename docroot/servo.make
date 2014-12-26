@@ -13,6 +13,7 @@ projects[] = libraries
 projects[] = navbar
 projects[] = ckeditor
 projects[] = linkit
+projects[] = hide_submit
 
 ; Themes
 projects[] = shiny
