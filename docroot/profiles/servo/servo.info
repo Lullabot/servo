@@ -5,6 +5,7 @@ core = 7.x
 dependencies[] = htmlpurifier
 dependencies[] = libraries
 dependencies[] = navbar
+dependencies[] = views_ui
 dependencies[] = ckeditor
 dependencies[] = linkit
 dependencies[] = menu

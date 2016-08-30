@@ -10,6 +10,7 @@ projects[] = ctools
 projects[] = entity
 projects[] = htmlpurifier
 projects[] = libraries
+projects[] = views
 projects[] = navbar
 projects[] = ckeditor
 projects[] = linkit
